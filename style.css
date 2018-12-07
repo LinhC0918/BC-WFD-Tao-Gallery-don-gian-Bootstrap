@@ -1,0 +1,12 @@
+body{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.gallery {
+    text-align: center;
+    /*margin: 3px;*/
+}
+.panel-body img {
+    height: auto;
+    width: 100%;
+}
